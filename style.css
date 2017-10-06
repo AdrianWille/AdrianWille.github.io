@@ -1,0 +1,44 @@
+body{
+		background-color:green;
+		color:yellow;
+		
+}
+
+a:link{
+		background-color:red;
+		backround-color:white;
+		
+}
+
+a:visited{
+		background-color:orange;
+		background-color:pink;
+		
+}
+
+a:hover{
+		background-color:orange;
+		background-color:lightblue;
+		font-size:30px;
+		
+}
+
+img{
+		height:200px;
+
+}
+
+div{
+		background-color:white;
+		color:blue;
+		margin:30px;
+		padding:25px;
+		border-radius:30px;
+		text-align:center;
+	
+}
+
+.styleClass{
+			background-color:green
+			
+}
