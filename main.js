@@ -1,7 +1,7 @@
 var list = ["We shall see",
 			"Yes",
 			"No!",
-			"Mayve.",
+			"Maybe.",
 			"Ask again later.",
 			"As I see it...yes.",
 			"Certainly.",
