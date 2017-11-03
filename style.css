@@ -28,7 +28,7 @@ img{
 
 }
 
-div{
+#container{
 		background-color:white;
 		color:blue;
 		margin:30px;
@@ -41,4 +41,24 @@ div{
 .styleClass{
 			background-color:green
 			
+}
+
+/* Below is the code for Tic Tac Toe */
+
+#board{
+	width:330px;
+	height:330px;
+	border-style:solid;
+	border-width:10px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:25px;
+}
+
+.box{
+	height:100px;
+	width:100px;
+	border-style:solid;
+	border-width:5px;
+	float:left;
 }
