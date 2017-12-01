@@ -61,4 +61,8 @@ img{
 	border-style:solid;
 	border-width:5px;
 	float:left;
+	font-size:60px;
+	vertical-align:middle;
+	line-height:100px;
+	
 }
